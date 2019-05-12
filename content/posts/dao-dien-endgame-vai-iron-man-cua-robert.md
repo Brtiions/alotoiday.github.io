@@ -6,6 +6,7 @@ thumbnail: https://4.bp.blogspot.com/-Yl83y68ztiI/XM6CnU5SJLI/AAAAAAAAKNY/sJKXdm
 ---
 
 
+
 Trong một buổi phỏng vấn gần đây, cặp đôi đạo diễn nhà Russo, linh hồn của bom tấn Avengers: Endgame đã chia sẻ suy nghĩ của họ về hành trình trở thành Iron Man của Robert Downey Jr và sức ảnh hưởng của nhân vật Iron Man huyền thoại. Theo anh em nhà Russo, Robert hoàn toàn xứng đáng đoạt tượng vàng Oscar sau màn thể hiện đầy cảm xúc trong bom tấn Endgame.
 
 
@@ -45,3 +46,6 @@ Trong một buổi phỏng vấn gần đây, cặp đôi đạo diễn nhà Rus
 
 Đạo diễn ENDGAME: "Vai Iron Man của Robert Downey Jr. xứng đáng nhận Oscar hơn bất cứ ai trong 40 năm qua"
 Iron Man có khả năng sẽ giúp Robert Downey Jr. có được tượng vàng đầu tiên trong sự nghiệp.
+
+
+![Đạo diễn ENDGAME: Vai Iron Man của Robert Downey Jr. xứng đáng nhận Oscar hơn bất cứ ai trong 40 năm qua](https://4.bp.blogspot.com/-Yl83y68ztiI/XM6CnU5SJLI/AAAAAAAAKNY/sJKXdmn6sJQgTBtPDpriGkxnelegpPsjgCPcBGAYYCw/s1600/64.jpg)!!Caption hinh anh!!
