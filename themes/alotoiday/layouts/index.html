@@ -1,0 +1,14 @@
+{{ define "main" -}}
+    {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+    <div class="articles">
+    {{ range $paginator.Pages }}
+    <article class="article" itemscope itemtype="//schema.org/Blog">
+        <h2 itemprop="headline" class="mb-2">
+            <a href="{{ .Permalink }}" class="no-underline text-black" itemprop="alternativeHeadline">{{ .Title }}</a>
+        </h2>
+        <time datetime="{{ .Date.Format "02-01-2006" }}" itemprop="datePublished">Đăng {{ .Date.Format "02-01-2006" }}</time>
+        </article>
+    {{ end }}
+    </div>
+    {{ partial "pagination.html" . }}
+{{- end }}

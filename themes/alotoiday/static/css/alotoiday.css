@@ -1,0 +1,8 @@
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.article-single p {
+  margin-bottom: 1rem;
+}
