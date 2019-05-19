@@ -1,9 +1,8 @@
 ---
-title: "Khốc liệt thương mại điện tử Việt Nam: TiKi lỗ 1.200 tỷ đồng chỉ trong 3 năm, 500 tỷ đồng đầu tư của VNG đã về "mo""
+title: "Khốc liệt thương mại điện tử Việt Nam: TiKi lỗ 1.200 tỷ đồng chỉ trong 3 năm, 500 tỷ đồng đầu tư của VNG đã về mo"
 date: 2019-05-12T10:15:18+07:00
-slug: khoc-liet-thuong-mai-ien-tu-viet-nam
+slug: khoc-liet-thuong-mai-dien-tu-viet-nam
 ---
-
 
 **Chỉ riêng trong năm 2018, sau khi được VNG và JD.com bơm thêm vốn, mức lỗ của TiKi đã tăng gấp gần 3 lần lên trên 750 tỷ đồng.**
 

@@ -1,5 +1,5 @@
 ---
-title: ""Ươm mầm" lập trình viên tương lai từ mẫu giáo, tham vọng đi trước nhân loại 40 năm đang được hiện thực hóa ở Singapore như thế nào?"
+title: "Ươm mầm lập trình viên tương lai từ mẫu giáo, tham vọng đi trước nhân loại 40 năm đang được hiện thực hóa ở Singapore như thế nào?"
 date: 2019-05-12T10:06:24+07:00
 slug: uom-mam-lap-trinh-vien-tuong-lai-tu-mau-giao
 ---
