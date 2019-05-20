@@ -1,6 +1,7 @@
 ---
 title: "Với iOS 13, Apple sẽ mang đến cho iPhone tính năng mà Android có từ 10 năm trước?"
 date: 2019-05-12T10:19:22+07:00
+thumbnail: "https://4.bp.blogspot.com/-jmV-k9tWP94/XNJP-7iwJVI/AAAAAAAAKfQ/fdUWMoeKMjo3isHHzxgDPTeOS8124TD6gCEwYBhgL/s400/53.jpg"
 slug: voi-ios-13-apple-se-mang-en-cho-iphone
 ---
 
